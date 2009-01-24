@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Tictactoercp Plug-in
+Bundle-SymbolicName: com.luzi82.tictactoercp; singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Activator: com.luzi82.tictactoercp.Activator
+Bundle-Vendor: LUZI82
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
